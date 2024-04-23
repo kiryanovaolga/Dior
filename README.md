@@ -1,4 +1,4 @@
-# Marketing Dior Project
+# Marketing Dior Project(Studying Project)
 
 <img width="1267" alt="image" src="https://github.com/kiryanovaolga/maketing-dior-project/assets/122813147/5fca99e0-d101-4688-94f4-f1dd0b09c594">
 <img width="1270" alt="image" src="https://github.com/kiryanovaolga/maketing-dior-project/assets/122813147/099e77c6-c480-49e0-91b7-64b38f5fc601">
